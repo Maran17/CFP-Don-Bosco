@@ -1,0 +1,29 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+
+
+body{
+font-family:
+font-size:25px;
+background-color:rgb(255, 255, 255);
+color:rgb(0, 0, 0);
+}
+nav{
+font-family: 'IM Fell English SC', serif;
+font-size: 20px;
+background-color: rgb(216, 106, 55);
+}
+footer{
+  font-family: 'IM Fell English SC', serif;
+  font-size:16px;
+  background-color: rgb(211, 211, 211);
+}
+p{
+font-size:20px;
+}
+h1{
+font-size:30px;
+}
+
+
+</style>

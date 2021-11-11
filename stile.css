@@ -7,22 +7,38 @@ font-size:25px;
 background-color:rgb(255, 255, 255);
 color:rgb(0, 0, 0);
 }
-nav{
-font-family: 'Montserrat', sans-serif;
-font-size: 20px;
-height: 36px;
-background-color: rgb(216, 106, 55);
-color: #ffffff
-}
 
-nav1{
-    height: 36px;
-}
+
 footer{
   font-family: 'Montserrat', sans-serif;
   font-size:16px;
   background-color: rgb(211, 211, 211);
 }
+
+
+
+
+#fascia-superiore {
+  height: 36px;
+  height: 36px;
+background-color: rgb(216, 106, 55);
+  padding: 5px;
+  padding-right: 200px;
+
+}
+
+#fascia-superiore a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  top: 18px;
+  height: 36px;
+background-color: rgb(216, 106, 55);
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  padding: 5px;
+}
+
 p{
 font-size:20px;
 }
